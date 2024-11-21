@@ -1,7 +1,7 @@
 
-# ASC2CSV
+# asc2csv
 
-**ASC2CSV** is a Python package developed for converting EyeLink `.asc` files into structured `.csv` files, facilitating the analysis of eye-tracking data. It extracts gaze data and event details such as blinks, saccades, and fixations, organizing them into an easy-to-use format.
+**asc2csv** is a Python package developed for converting EyeLink `.asc` files into structured `.csv` files, facilitating the analysis of eye-tracking data. It extracts gaze data and event details such as blinks, saccades, and fixations, organizing them into an easy-to-use format.
 
 ## Features
 - Converts EyeLink `.asc` files to `.csv` format efficiently.
@@ -9,21 +9,9 @@
 - Aligns timestamps relative to trial start for consistent temporal analysis.
 - Handles missing data by combining event and sample data fields where applicable.
 
-## **Changelog**
-
-<details>
-  <summary>See the Changes in versions</summary>
-
-### **Version 1.4**- Initial release of `prpip`.
-- first uupdate and edit control varibales to read TRIALID from data
-- Extended `message` to all related rows
-
-### **Version 1.4.1**
-- first uupdate and edit control varibales to read TRIALID from data
-- Extended `message` to all related rows
-- improve import package not load unneccessary libraries
-
-</details>
+## change Log and Updates
+----
+V 1.4 Update 12/11/24   make adding `header=True` in conversion optional. By default `header=True` is applied.
 
 ## Installation
 
