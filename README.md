@@ -9,9 +9,20 @@
 - Aligns timestamps relative to trial start for consistent temporal analysis.
 - Handles missing data by combining event and sample data fields where applicable.
 
-## change Log and Updates
-----
-V 1.4 Update 12/11/24   make adding `header=True` in conversion optional. By default `header=True` is applied.
+## **Changelog**
+
+<details>
+  <summary>See the Changes in versions</summary>
+
+### **Version 1.4**
+- Initial release of `asc2csv`.
+- V 1.4 Update 12/11/24   make adding `header=True` in conversion optional. By default `header=True` is applied.
+
+### **Version 1.4.1**
+- Enhanced data importing
+
+</details>
+
 
 ## Installation
 
