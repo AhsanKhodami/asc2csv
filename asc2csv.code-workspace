@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+			"name": "asc2csv",
 			"path": "."
 		}
 	]
