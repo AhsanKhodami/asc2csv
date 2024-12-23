@@ -1,7 +1,35 @@
+# My Academic and Professional Profiles
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+<a href="https://scholar.google.com/citations?user=WCqPnS4AAAAJ&hl=en" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Google Scholar" style="width:50px;height:50px;">
+</a>
+
+<a href="https://www.researchgate.net/profile/M-Ahsan-Khodami" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" style="width:50px;height:50px;">
+</a>
+
+<a href="https://github.com/Ahsankhodami" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:50px;height:50px;">
+</a>
+
+<a href="https://khodami.site" target="_blank">
+  <img src="https://www.svgrepo.com/show/474749/broken-link.svg" alt="Website" style="width:50px;height:50px;">
+</a>
+
+</div>
+<hr>
 
 # asc2csv
+![DOI](https://img.shields.io/badge/DOI-10.31219/osf.io/vfpy5-blue) ![PyPI](https://img.shields.io/pypi/v/asc2csv)
 
 **asc2csv** is a Python package developed for converting EyeLink `.asc` files into structured `.csv` files, facilitating the analysis of eye-tracking data. It extracts gaze data and event details such as blinks, saccades, and fixations, organizing them into an easy-to-use format.
+
+</p>
+
+**asc2csv** is a Python package developed for converting EyeLink `.asc` files into structured `.csv` files, facilitating the analysis of eye-tracking data. It extracts gaze data and event details such as blinks, saccades, and fixations, organizing them into an easy-to-use format.
+
 
 ## Features
 - Converts EyeLink `.asc` files to `.csv` format efficiently.
